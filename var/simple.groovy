@@ -1,3 +1,3 @@
 def call(String message) {
-    println "Hello, ${message}"
+    println "Hello, ${message}!"
 }
